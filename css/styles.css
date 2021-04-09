@@ -164,6 +164,14 @@ body {
 .footer {
   background-color: var(--dark-bg);
 }
+.footer .logo {
+  color: var(--alt-title-color);
+  font-family: var(--title-font);
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
 .footer .address {
   font-family: var(--main-font);
   font-size: 14px;
