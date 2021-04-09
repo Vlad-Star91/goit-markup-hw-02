@@ -83,9 +83,7 @@ body {
   line-height: 1.36;
   color: var(--alt-title-color);
 }
-.button {
-  cursor: pointer;
-}
+
 .hero .button {
   font-family: var(--main-font);
   font-size: 16px;
@@ -93,6 +91,7 @@ body {
   letter-spacing: 0.06em;
   color: var(--alt-title-color);
   background-color: var(--accent-color);
+  cursor: pointer;
 }
 
 .button-nav button {
@@ -102,6 +101,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--title-color);
   background-color: var(--team-bg);
+  cursor: pointer;
 }
 .button-nav button:hover,
 .button-nav button:focus,
