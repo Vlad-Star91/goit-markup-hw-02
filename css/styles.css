@@ -42,6 +42,7 @@ body {
 }
 .site-nav .link {
   font-family: var(--main-font);
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -57,6 +58,7 @@ body {
 }
 .auth-nav .link {
   font-family: var(--main-font);
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -74,11 +76,11 @@ body {
   font-style: inherit;
 }
 .hero {
-  color: var(--alt-title-color);
   background-color: var(--dark-bg);
 }
 .hero .hero-title {
   font-family: var(--main-font);
+  font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
   color: var(--alt-title-color);
@@ -96,6 +98,7 @@ body {
 
 .button-nav button {
   font-family: var(--main-font);
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 0.03em;
@@ -180,7 +183,7 @@ body {
 
   color: var(--alt-title-color);
 }
-.footer .auth-nav {
+.footer .link {
   font-family: var(--main-font);
   font-size: 14px;
   line-height: 1.71;
